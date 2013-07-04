@@ -1,0 +1,312 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "field_1": "1", "id": "686467428", "name": "Bison bison", "longitude": "-118.790000915527", "latitude": "43.310001373291", "provider": "University of Kansas Biodiversity Institute" }, "geometry": { "type": "Point", "coordinates": [ -118.790000915527003, 43.310001373291001 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "2", "id": "656975776", "name": "Bison bison", "longitude": "-118.793998718262", "latitude": "43.3116989135742", "provider": "Natural History Museum of Los Angeles County" }, "geometry": { "type": "Point", "coordinates": [ -118.793998718262003, 43.311698913574197 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "3", "id": "785794942", "name": "Bison bison", "longitude": "-111.102996826172", "latitude": "44.6622009277344", "provider": "Museum of Southwestern Biology" }, "geometry": { "type": "Point", "coordinates": [ -111.102996826172003, 44.662200927734403 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "4", "id": "687029742", "name": "Bison bison", "longitude": "-110.694999694824", "latitude": "44.4595985412598", "provider": "iNaturalist.org" }, "geometry": { "type": "Point", "coordinates": [ -110.694999694824006, 44.459598541259801 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "5", "id": "687027385", "name": "Bison bison", "longitude": "-110.664001464844", "latitude": "44.6077003479004", "provider": "iNaturalist.org" }, "geometry": { "type": "Point", "coordinates": [ -110.664001464844006, 44.607700347900398 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "6", "id": "773434631", "name": "Bison bison", "longitude": "-110.628997802734", "latitude": "44.8254013061523", "provider": "iNaturalist.org" }, "geometry": { "type": "Point", "coordinates": [ -110.628997802734006, 44.825401306152301 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "7", "id": "784912378", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "8", "id": "784912336", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "9", "id": "784912328", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "10", "id": "784912334", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "11", "id": "784912380", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "12", "id": "784912322", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "13", "id": "784912330", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "14", "id": "784912326", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "15", "id": "784912439", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "16", "id": "784912885", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "17", "id": "784912513", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "18", "id": "784912509", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "19", "id": "784912372", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "20", "id": "784912967", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "21", "id": "784912413", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "22", "id": "784912431", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "23", "id": "784912420", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "24", "id": "784912422", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "25", "id": "784912465", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "26", "id": "784912428", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "27", "id": "784912887", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "28", "id": "784912843", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "29", "id": "784912853", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "30", "id": "784912511", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "31", "id": "784912443", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "32", "id": "784912519", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "33", "id": "784912515", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "34", "id": "784912525", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "35", "id": "784912467", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "36", "id": "784912477", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "37", "id": "784912479", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "38", "id": "784912507", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "39", "id": "784912475", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "40", "id": "784912471", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "41", "id": "784912481", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "42", "id": "784912841", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "43", "id": "784912523", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "44", "id": "784912682", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "45", "id": "784912674", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "46", "id": "784912521", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "47", "id": "784912671", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "48", "id": "784912562", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "49", "id": "784912527", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "50", "id": "784912560", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "51", "id": "784912631", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "52", "id": "784912626", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "53", "id": "784912622", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "54", "id": "784912624", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "55", "id": "784912628", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "56", "id": "784912620", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "57", "id": "784912720", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "58", "id": "784912847", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "59", "id": "784912957", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "60", "id": "784912680", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "61", "id": "784912678", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "62", "id": "784912815", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "63", "id": "784912730", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "64", "id": "784912724", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "65", "id": "784912726", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "66", "id": "784912817", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "67", "id": "784912777", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "68", "id": "784912813", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "69", "id": "784912807", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "70", "id": "784912819", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "71", "id": "784912805", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "72", "id": "784912803", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "73", "id": "784912775", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "74", "id": "784912845", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "75", "id": "784912839", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "76", "id": "784912965", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "77", "id": "784912889", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "78", "id": "784912851", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "79", "id": "784912849", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "80", "id": "784912959", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "81", "id": "784912919", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "82", "id": "784912917", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "83", "id": "784912915", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "84", "id": "784912941", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "85", "id": "784912963", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "86", "id": "784912961", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "87", "id": "784913000", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "88", "id": "784912728", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "89", "id": "784912505", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "90", "id": "784912517", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "91", "id": "784913065", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "92", "id": "784913042", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "93", "id": "784913056", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "94", "id": "784913016", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "95", "id": "784913006", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "96", "id": "784913063", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "97", "id": "784913008", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "98", "id": "784913012", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "99", "id": "784913014", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "100", "id": "784913004", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "101", "id": "784913010", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "102", "id": "784913046", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "103", "id": "784913044", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "104", "id": "784913052", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "105", "id": "784913048", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "106", "id": "784913050", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "107", "id": "784913059", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "108", "id": "784913951", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "109", "id": "784912722", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "110", "id": "784912943", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "111", "id": "784912769", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "112", "id": "784912424", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "113", "id": "784912426", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "114", "id": "784912773", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "115", "id": "784913061", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "116", "id": "784912771", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "117", "id": "784912340", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "118", "id": "784912767", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "119", "id": "784912469", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "120", "id": "784912320", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "121", "id": "784912370", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "122", "id": "784912332", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "123", "id": "784912558", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "124", "id": "784912441", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "125", "id": "784913054", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "126", "id": "784912811", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "127", "id": "784912809", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "128", "id": "784912376", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "129", "id": "784912374", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "130", "id": "784912891", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "131", "id": "784912676", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "132", "id": "784912338", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "133", "id": "784912324", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "134", "id": "784912473", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "135", "id": "784912342", "name": "Bison bison", "longitude": "-110.455001831055", "latitude": "44.6439018249512", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.455001831055, 44.6439018249512 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "136", "id": "780563116", "name": "Bison bison", "longitude": "-110.877998352051", "latitude": "37.9393997192383", "provider": "Museum of Vertebrate Zoology" }, "geometry": { "type": "Point", "coordinates": [ -110.877998352050994, 37.939399719238303 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "137", "id": "780562840", "name": "Bison bison", "longitude": "-110.830001831055", "latitude": "38.0238990783691", "provider": "Museum of Vertebrate Zoology" }, "geometry": { "type": "Point", "coordinates": [ -110.830001831055, 38.023899078369098 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "138", "id": "780562844", "name": "Bison bison", "longitude": "-110.830001831055", "latitude": "38.1249008178711", "provider": "Museum of Vertebrate Zoology" }, "geometry": { "type": "Point", "coordinates": [ -110.830001831055, 38.124900817871101 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "139", "id": "780700699", "name": "Bison bison", "longitude": "-110.811996459961", "latitude": "38.0671997070312", "provider": "Museum of Vertebrate Zoology" }, "geometry": { "type": "Point", "coordinates": [ -110.811996459960994, 38.0671997070312 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "140", "id": "780562842", "name": "Bison bison", "longitude": "-110.811996459961", "latitude": "38.0960006713867", "provider": "Museum of Vertebrate Zoology" }, "geometry": { "type": "Point", "coordinates": [ -110.811996459960994, 38.096000671386697 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "141", "id": "730303742", "name": "Bison bison", "longitude": "-110.432998657227", "latitude": "44.5583992004395", "provider": "iNaturalist.org" }, "geometry": { "type": "Point", "coordinates": [ -110.432998657227003, 44.558399200439503 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "142", "id": "773370530", "name": "Bison bison", "longitude": "-110.400001525879", "latitude": "44.6475982666016", "provider": "iNaturalist.org" }, "geometry": { "type": "Point", "coordinates": [ -110.400001525879006, 44.647598266601598 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "143", "id": "687030401", "name": "Bison bison", "longitude": "-110.384002685547", "latitude": "44.9039993286133", "provider": "iNaturalist.org" }, "geometry": { "type": "Point", "coordinates": [ -110.384002685547003, 44.903999328613303 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "144", "id": "723608222", "name": "Bison bison", "longitude": "-110.348999023438", "latitude": "44.8839988708496", "provider": "iNaturalist.org" }, "geometry": { "type": "Point", "coordinates": [ -110.348999023437997, 44.883998870849602 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "145", "id": "773415930", "name": "Bison bison", "longitude": "-110.31600189209", "latitude": "44.9830017089844", "provider": "iNaturalist.org" }, "geometry": { "type": "Point", "coordinates": [ -110.31600189209, 44.983001708984403 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "146", "id": "687030400", "name": "Bison bison", "longitude": "-110.314002990723", "latitude": "44.9014015197754", "provider": "iNaturalist.org" }, "geometry": { "type": "Point", "coordinates": [ -110.314002990722997, 44.901401519775398 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "147", "id": "784912998", "name": "Bison bison", "longitude": "-110.233001708984", "latitude": "44.7667007446289", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -110.233001708984006, 44.766700744628899 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "148", "id": "691259370", "name": "Bison bison", "longitude": "-110", "latitude": "45", "provider": "South Australian Museum" }, "geometry": { "type": "Point", "coordinates": [ -110.0, 45.0 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "149", "id": "785068406", "name": "Bison bison", "longitude": "-108.774002075195", "latitude": "42.7722015380859", "provider": "Denver Museum of Nature & Science" }, "geometry": { "type": "Point", "coordinates": [ -108.774002075195, 42.772201538085902 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "150", "id": "785747622", "name": "Bison bison", "longitude": "-108.541000366211", "latitude": "35.4678001403809", "provider": "Museum of Southwestern Biology" }, "geometry": { "type": "Point", "coordinates": [ -108.541000366210994, 35.467800140380902 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "151", "id": "785745247", "name": "Bison bison", "longitude": "-108.541000366211", "latitude": "35.4678001403809", "provider": "Museum of Southwestern Biology" }, "geometry": { "type": "Point", "coordinates": [ -108.541000366210994, 35.467800140380902 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "152", "id": "785774934", "name": "Bison bison", "longitude": "-108", "latitude": "35", "provider": "Museum of Southwestern Biology" }, "geometry": { "type": "Point", "coordinates": [ -108.0, 35.0 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "153", "id": "784912039", "name": "Bison bison", "longitude": "-107.63500213623", "latitude": "41.6063995361328", "provider": "University of Wyoming Museum of Vertebrates" }, "geometry": { "type": "Point", "coordinates": [ -107.63500213623, 41.606399536132798 ] } }
+
+]
+}
+
